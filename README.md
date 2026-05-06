@@ -1,22 +1,14 @@
 <div align="center">
 
-```
-    ____     __                             ___           __      __
-   /  _/____/ /_  ____ _____ _____         / (_)___  ____/ /___ _/ /
-   / // ___/ __ \/ __ `/ __ `/ __ \   __  / / / __ \/ __  / __ `/ /
- _/ /(__  ) / / / /_/ / /_/ / / / /  / /_/ / / / / / /_/ / /_/ / /
-/___/____/_/ /_/\__,_/\__,_/_/ /_/   \____/_/_/ /_/\__,_/\__,_/_/
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=FF2E2E&center=true&vCenter=true&width=700&lines=Ishaan+Jindal;Flutter-first+developer.;Architecture-obsessed.;Occasionally+builds+weird+things.)](https://ishaanjindal.tech)
 
-**Flutter-first. Architecture-obsessed. Occasionally builds weird things.**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/ishaanjindal.tech-000000?style=flat&logoColor=white)](https://ishaanjindal.tech)
+[![Portfolio](https://img.shields.io/badge/ishaanjindal.tech-111111?style=flat&logo=htmx&logoColor=FF2E2E)](https://ishaanjindal.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jindal-ishaan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishaanjindal2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FF2E2E?style=flat&logo=gmail&logoColor=white)](mailto:ishaanjindal2006@gmail.com)
 
 </div>
-
----
 
 ### Stack
 
@@ -35,14 +27,12 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/>
 </p>
 
----
-
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-self-one-46.vercel.app/api?username=ishaan-jindal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img src="https://github-readme-stats-self-one-46.vercel.app/api?username=ishaan-jindal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=FF2E2E&text_color=ffffff&icon_color=FF2E2E"/>
   &nbsp;
-  <img src="https://github-readme-stats-self-one-46.vercel.app/api/top-langs/?username=ishaan-jindal&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-self-one-46.vercel.app/api/top-langs/?username=ishaan-jindal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF2E2E&text_color=ffffff&icon_color=FF2E2E"/>
 </p>
 
 ---
